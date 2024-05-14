@@ -28,12 +28,22 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+#### Programming Languages:
+  <img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>
+ <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
+ <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>
+ <img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
+ <img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
+ <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
+ <img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
+ <img height="48px" width="48px" alt="ARM Assembly" src="https://skillicons.dev/icons?i=ARMassembly"/>
+ <img height="48px" width="48px" alt="Verilog HDL" src="https://skillicons.dev/icons?i=veriloghdl"/>
+
+### Databases
+ [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://)
+ [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.t)
+
+
 
 
 #### Studying in this moment:
