@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+am+Mohomed+Faseeh;I'm+a+Computer+Engineering+Undergraduate)](https://git.io/typing-svg)
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">"Ever Cool Never Fool"</h3>
+<h4 align="center">- myself -</h4>
 
 <br>
 
