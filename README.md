@@ -14,7 +14,7 @@
 <br>
 
 ## About me
-<h3> 👋 Hi there! I'm a passionate third-year Computer Engineering student with a knack for problem-solving and a strong team player mentality. </h3>
+<h5> 👋 Hi there! I'm a passionate third-year Computer Engineering student with a knack for problem-solving and a strong team player mentality. </h5>
 
 ## Language and Tools
 
