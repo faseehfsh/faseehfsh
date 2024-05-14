@@ -17,8 +17,9 @@
 <p> 👋 Hi there! I'm a passionate third-year Computer Engineering student with a knack for problem-solving and a strong team player mentality. 
 <h3>🎓 Education:</h3>
 
-Pursuing Bachelor of the Science of Engineering Honours specializing in Computer Engineering at the University of Peradeniya.
+Pursuing <h4 color=FF3670>Bachelor of the Science of Engineering Honours specializing in Computer Engineering</h4> at the University of Peradeniya.
 </p>
+
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
