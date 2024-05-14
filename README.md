@@ -15,12 +15,12 @@
 
 ## About me
 <p>
-  👋 Hi there! I'm a passionate third-year Computer Engineering student with a knack for problem-solving and a strong team player mentality.
+  👋 Hi there! I'm a passionate third-year Computer Engineering undergraduate with a knack for problem-solving and a strong team player mentality.
 </p>
 
 <h3>🎓 Education:</h3>
 <p>
-  Pursuing <span style="color: #FF3670;">Bachelor of the Science of Engineering Honours</span> specializing in Computer Engineering at the <span style="color: #FF3670;">University of Peradeniya</span>.
+  Pursuing <span style="color: #FF3670">Bachelor of the Science of Engineering Honours</span> specializing in Computer Engineering at the <span style="color: #FF3670">University of Peradeniya</span>.
 </p>
 
 
