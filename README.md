@@ -14,7 +14,10 @@
 <br>
 
 ## About me
-<h5> 👋 Hi there! I'm a passionate third-year Computer Engineering student with a knack for problem-solving and a strong team player mentality. </h5>
+<h4> 👋 Hi there! I'm a passionate third-year Computer Engineering student with a knack for problem-solving and a strong team player mentality. </h4>
+<h4>🎓 Education:
+
+Pursuing Bachelor of the Science of Engineering Honours specializing in Computer Engineering at the University of Peradeniya.</h4>
 
 ## Language and Tools
 
