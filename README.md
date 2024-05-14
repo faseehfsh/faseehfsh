@@ -36,7 +36,7 @@
  <img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
  <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
  <img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
- <b>Verilog</b>
+ <b>ARM Assembly, Verilog</b>
 
 ### Databases
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://)
