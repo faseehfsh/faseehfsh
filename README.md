@@ -29,8 +29,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Programming Languages:
-  <img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>
- <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
+ [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>]
+ [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>]
  <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>
  <img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
  <img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
