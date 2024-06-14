@@ -20,7 +20,7 @@
 
 <h3>🎓 Education:</h3>
 <p>
-  Pursuing <b>Bachelor of the Science of Engineering Honours specializing in Computer Engineering at the University of Peradeniya, SriLanka</b>></span>.
+  Pursuing <b>Bachelor of the Science of Engineering Honours specializing in Computer Engineering at the University of Peradeniya, SriLanka</b></span>.
 </p>
 
 
