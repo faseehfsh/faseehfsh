@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+am+Mohomed+Faseeh;Passionate+Computer+Engineering+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+am+Mohomed+Faseeh;Passionate+Computer+Engineering+Undergraduate)]
 
 <h3 align="center">"Ever Cool Never Fool"</h3>
 <h4 align="center">- myself -</h4>
