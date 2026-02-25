@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+am+Mohomed+Faseeh;Passionate+Computer+Engineering+Undergraduate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+am+Mohomed+Faseeh;Passionate+Computer+Engineering+Graduate)
 
 
 <br>
@@ -25,16 +25,10 @@ I’m always open to collaborating on innovative projects and contributing to im
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Programming Languages:
- <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
- <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>
- [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://)
- <img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
- <img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
- <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
- <img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
+  [![Languages](https://skillicons.dev/icons?i=python,java,c,typescript,js,html,css)](https://skillicons.dev)
  
 
-### ML & AI
+#### ML & AI
  [![ML AI Skills](https://skillicons.dev/icons?i=sklearn,)](https://skillicons.dev)
 
 #### Backend & API
@@ -47,21 +41,14 @@ I’m always open to collaborating on innovative projects and contributing to im
 #### Cloud
  [![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 
-### DevOps & Automation
+#### DevOps & Automation
  [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible)](https://skillicons.dev)
 
-### Frameworks
+#### Frameworks:
  [![Framework](https://skillicons.dev/icons?i=react,androidstudio)](https://skillicons.dev)
 
 #### Tools:
- [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,)](https://skillicons.dev)
-  
-
-#### Frameworks
- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.com/)
- <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=nodejs"/>
- <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=express"/>
- <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=androidstudio"/> 
+ [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,)](https://skillicons.dev) 
 
 <br>
 <!---  
