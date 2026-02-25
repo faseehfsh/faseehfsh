@@ -3,21 +3,13 @@
 
 <br>
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=faseehfsh&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseehfsh&layout=compact&theme=radical" />
-</div>
-
-
-<br>
-
 ## About me
 <p>
   Hi there! 👋
 
 I’m a Computer Engineering graduate passionate about building intelligent systems that solve real-world problems. I’m particularly interested in understanding how machine learning and AI models work under the hood and how they can be optimized for performance, scalability, and practical deployment.
 
-My core interests include Machine Learning, Deep Learning, Artificial Intelligence, and Software Engineering. I enjoy translating complex ideas into efficient, well-structured solutions and continuously learning to stay at the forefront of emerging technologies.
+My core interests include <b>Machine Learning, Deep Learning, Artificial Intelligence, and Software Engineering</b>. I enjoy translating complex ideas into efficient, well-structured solutions and continuously learning to stay at the forefront of emerging technologies.
 
 I’m always open to collaborating on innovative projects and contributing to impactful solutions.
 </p>
@@ -33,34 +25,43 @@ I’m always open to collaborating on innovative projects and contributing to im
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Programming Languages:
- [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://)
  <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
  <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>
- <img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
+ [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://)
  <img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
+ <img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
  <img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
  <img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
- <b>ARM Assembly, Verilog</b>
+ 
+
+### ML & AI
+ [![ML AI Skills](https://skillicons.dev/icons?i=sklearn,)](https://skillicons.dev)
+
+#### Backend & API
+ [![Backend](https://skillicons.dev/icons?i=express,nodejs)](https://skillicons.dev)
 
 #### Databases
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://)
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com)
 
+#### Cloud
+ [![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+
+### DevOps & Automation
+ [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible)](https://skillicons.dev)
+
+### Frameworks
+ [![Framework](https://skillicons.dev/icons?i=react,androidstudio)](https://skillicons.dev)
 
 #### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=idea"/>](https://intellij.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pycharm"/>](https://pycharm.com/)
+ [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,)](https://skillicons.dev)
+  
 
 #### Frameworks
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.com/)
  <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=nodejs"/>
  <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=express"/>
- <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=androidstudio"/>
- 
+ <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=androidstudio"/> 
 
 <br>
 <!---  
