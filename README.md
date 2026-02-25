@@ -29,7 +29,7 @@ I’m always open to collaborating on innovative projects and contributing to im
  
 
 #### ML & AI
- [![ML AI Skills](https://skillicons.dev/icons?i=sklearn,)](https://skillicons.dev)
+ [![ML AI Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
 
 #### Backend & API
  [![Backend](https://skillicons.dev/icons?i=express,nodejs)](https://skillicons.dev)
