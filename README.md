@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+am+Mohomed+Faseeh;Passionate+Computer+Engineering+Undergraduate)
 
-<h3 align="center">"Ever Cool Never Fool"</h3>
-<h4 align="center">- myself -</h4>
 
 <br>
 
@@ -15,12 +13,18 @@
 
 ## About me
 <p>
-  👋 Hi there! I'm a passionate third-year Computer Engineering undergraduate with a knack for problem-solving and a strong team player mentality.
+  Hi there! 👋
+
+I’m a Computer Engineering graduate passionate about building intelligent systems that solve real-world problems. I’m particularly interested in understanding how machine learning and AI models work under the hood and how they can be optimized for performance, scalability, and practical deployment.
+
+My core interests include Machine Learning, Deep Learning, Artificial Intelligence, and Software Engineering. I enjoy translating complex ideas into efficient, well-structured solutions and continuously learning to stay at the forefront of emerging technologies.
+
+I’m always open to collaborating on innovative projects and contributing to impactful solutions.
 </p>
 
 <h3>🎓 Education:</h3>
 <p>
-  Pursuing <b>Bachelor of the Science of Engineering Honours specializing in Computer Engineering at the University of Peradeniya, SriLanka</b></span>.
+  <b>Bachelor of the Science of Engineering Honours specializing in Computer Engineering at the University of Peradeniya, SriLanka</b></span>.
 </p>
 
 
